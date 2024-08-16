@@ -1,0 +1,8 @@
+{
+  "name": "@garretmh/result",
+  "version": "0.1.0",
+  "exports": "./mod.ts",
+  "tasks": {
+    "dev": "deno test --watch mod.ts"
+  }
+}
